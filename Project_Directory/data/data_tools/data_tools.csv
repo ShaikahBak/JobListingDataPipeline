@@ -1,0 +1,80 @@
+tool_id,tool_keyword,tool_name
+1,Excel,Microsoft Excel
+2,R,R Programming Language
+3,Python,Python Programming Language
+4,Scala,Scala Programming Language
+5,Tableau,
+6,Power BI,Microsoft Power BI
+7,Cognos,IBM Cognos Analytics
+8,SQL,
+9,PostgreSQL,
+10,MySQL,
+11,Spark,Apache Spark
+12,Airflow,Apache Airflow
+13,SAS,SAS BI & Data Management
+14,Jupyter,Jupyter Notebook
+15,MATLAB,
+16,Matplotlib,Matplotlib Library
+17,scikit,scikit-learn Library
+18,TensorFlow,
+19,SSIS,Microsoft SSIS
+20,SSRS,Microsoft SSRS
+21,SPSS,
+22,HubSpot,
+23,Sisense,
+24,Talend,
+25,Oracle,Oracle Data & BI Tools
+26,Looker,
+27,Xplenty,
+28,S3,AWS S3
+29,EMR,AWS EMR
+30,RDS,AWS RDS
+31,Redshift,AWS Redshift
+32,EC2,Amazon EC2
+33,QlikView,
+34,QlikSense,
+35,Orange,
+36,Zoho,Zoho Analytics
+37,XML,
+38,JSON,
+39,Hadoop,Apache Hadoop
+40,MongoDB,
+41,Kafka,Apache Kafka
+42,Hive,Apache Hive
+43,Pig,Apache Pig
+44,Cassandra,Apache Cassandra
+45,Pandas,Pandas Python Library
+46,NumPy,NumPy Python Library
+47,Alteryx,
+48,MicroStrategy,
+49,Datapine,
+50,Java,
+51,Yellowfin BI,
+52,SAP,SAP Business Technology Tools
+53,Dundas,Dundas BI
+54,RapidMiner,
+55,Snowflake,
+56,Google Analytics,
+57,Google Cloud,
+58,C++,C++ Programming Language
+59,Docker,
+60,Keras,
+61,Scipy,
+62,Impala,
+63,git,
+64,PHP,
+65,Ruby,
+66,Javascript,
+67,Databricks,
+68,AWS,Amazon Web Services
+69,Azure,
+70,Pytorch,
+71,Scrapy,
+72,MSSQL,
+73,Splunk,
+74,Glue,AWS Glue
+75,Lambda,AWS Lambda
+76,BigQuery,
+77,GCP,Google Cloud Platform
+78,Kubernetes,
+79,Erwin,
